@@ -1,0 +1,18 @@
+#left {
+	background-image:url(../image1/conner_left_title_vang.gif);
+	height: 33px;
+	width: 28px;
+}
+#right {
+	background-image:url(../image1/conner_right_title_vang.gif);
+	height: 33px;
+	width: 11px;
+}
+#center {
+	background-image:url(../image1/bg_title_vang.gif);
+}
+.bangduoi {
+	border: 1px solid #FACF50;
+	padding: 0px;
+	margin-bottom: 8px;
+}

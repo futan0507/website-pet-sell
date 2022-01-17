@@ -1,0 +1,9 @@
+#timkiem a {
+	text-decoration: none;
+	color: #03F;
+}
+#timkiem a:hover {
+	text-decoration: underline;
+	font-weight: bold;
+	color: #3FF;
+}

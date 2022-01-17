@@ -1,0 +1,21 @@
+#rowcha {
+	margin: auto;
+	width: 550px;
+}
+#rowcha #rowcon {
+	background-color: #6FF;
+	margin: 5px;
+	float: left;
+	height: 300px;
+	width: 260px;
+	border: 1px solid #F3F;
+	vertical-align: top;
+	text-align: center;
+}
+#rowcha #rowcon1 {
+	width: 550px;
+	border: 1px dotted #F06;
+	text-align: left;
+	vertical-align: top;
+	padding: 10px;
+}

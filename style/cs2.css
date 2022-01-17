@@ -1,0 +1,57 @@
+#khung {
+	margin: auto;
+	width: 960px;
+}
+#header {
+	background-image:url(../banner2.gif);
+	height: 200px;
+}
+#ngaythang {
+	margin-left:770px;
+	height: 60px;
+	width: 270px;
+	margin-top: 15px;
+	font-weight: bold;
+	color:#F00;
+}
+#menu {
+	background-color:#FF0;
+	height:30px;	
+	margin-top:5px;
+}
+#main{
+	min-height:500px;
+	margin-top:5px;
+	margin-bottom:5px;	
+}
+#left_main{
+	width:200px;
+	float:left;
+	min-height:500px;	
+}
+#right_main{
+	width:200px;
+	float:right;
+	min-height:500px;
+	
+}
+#center_main{
+	margin-left:205px;
+	margin-right:205px;
+	min-height:500px;
+	
+}
+#liveshow{
+	background-color:#FF0;
+	height:240px;
+}
+#sankhau{
+	margin-top:5px;
+	min-height:255px;
+	
+}
+#footer{
+	background-color:#609;
+	height:120px;
+	clear:both;	
+}
