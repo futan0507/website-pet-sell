@@ -1,1 +1,6 @@
-# website-sell-pet-prj
+# website-sell-pet-2013
+
+#MySQL
+#PHP
+#HTML
+#CSS
